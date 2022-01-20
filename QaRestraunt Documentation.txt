@@ -1,0 +1,126 @@
+Epic
+- Designing UI and UX on website for customers of QaRestraunt
+- Designing management System for Restraunt Staff QaRestraunt
+
+
+
+1) AS A customer, 
+I WANT TO view logo from navbar, webpage and footer
+SO THAT I know it's a vegan restraunt
+
+GIVEN I can see the logo
+WHEN I'm on a sitepage
+THEN I can determine vegan restraunt
+
+
+2) AS A customer
+I WANT TO view social media links on webpage
+SO THAT I can follow the restraunt various media platforms
+
+GIVEN the social media links are visible
+WHEN I click on a links
+THEN I'm taken to the corresponding platform
+
+
+3) AS A Customer
+I WANT TO be able to navigate betweem the different webpages 
+SO THAT I can find what service I require
+
+GIVEN I'm on the restraunt homepage
+WHEN I click the webpage links
+THEN I'm taken the correct webpage
+
+
+4) AS A customer
+I WANT TO see the menu
+SO THAT I know the name, description and Price of each item
+
+GIVEN I'm on the menu webpage
+WHEN I navigate through the various items
+THEN I can see the product name, description and price.
+
+
+5) AS A customer
+I WANT TO see the pinpoint map location of the restraunt
+SO THAT I know it's located at "Anchorage 1 Anchorage Quay Salford, The Quays, Manchester M50 3YJ"
+
+GIVEN I'm on the Contact Us webpage
+WHEN I navigate through the webpage
+AND click the map of location
+THEN I'm taken to google maps link
+
+6) AS A customer
+I WANT TO know more about the establishment
+SO THAT I can see a gallery and more information about the restraunt itself
+
+GIVEN I'm on the About webpage
+WHEN I navigate through the webpage
+AND I click on the Head Chef's statement link
+THEN I'm automatically given a text file with the Head chef's statement
+
+
+7) AS A customer
+I WANT TO be able to make an order online
+SO THAT the restraunt can prepare my items and bring it
+
+GIVEN I'm on the order online webpage
+WHEN I order the items I want
+AND the order has been processed
+THEN I recieve them at my table
+
+
+8) AS A customer
+I WANT TO be able to make reservations online
+SO THAT I have a table at the restraunt
+
+GIVEN I'm on the reservations webpage
+WHEN I choose an available slot
+THEN I recieve confirmation of my reservation
+
+
+9) AS A Restraunt Staff Manager
+I WANT TO allow reservations only 1 month in advance
+SO THAT I can plan for cancellations
+
+GIVEN I'm on the reservations page
+WHEN I attempt to make a reservation
+THEN I can only make reservations for a certain time
+
+
+10) AS A customer
+I WANT TO view tables available for reservation
+SO THAT I can make a booking
+
+GIVEN I'm on the reservations webpage
+WHEN I select the time and date for my booking 
+SO THAT I know what the optimal time for making a reservation is
+
+
+11) AS A Restraunt Staff Member
+I WANT TO be able to delete reservations upon request
+SO THAT other Customers can make bookings if requested
+
+GIVEN that I recieved a cancellation call
+WHEN I enter the booking system
+AND delete the reservtion
+THEN the reservation should no longer be on the system
+
+
+12) AS A Restraunt Staff Member
+I WANT to make updates to a reservation upon request
+SO THAT the reservations have updated information for all staff
+
+GIVEN that I recieved an update from a customer
+WHEN I enter the booking system
+AND update the booking system
+THEN the latest information regarding the reservation should be visible to all staff
+
+
+
+
+ 
+
+
+
+
+
